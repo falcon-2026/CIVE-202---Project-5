@@ -31,5 +31,10 @@ The goals of this project were outlined with the use of a Gantt Chart. The link 
 
 The project deliverables were planned and tracked using an engineering time sheet to ensure organized progress throughout the project.
 
+- [Time Sheet](CIVE202_Spring2026_INFRA0209_Project5_EngineeringTimeSheet.xlsx)
 
 Additional project documentation:
+
+- [Scope of Work](CIVE202_Spring2026_GroupINFRA0209_Project5_SOW.pdf)
+- [Written Report](CIVE202_Spring2026_INFRA0209_WrittenReport.docx)
+- [Annotated Code Document](CIVE202_Spring2026_INFRA0209_Project5_ACD.xlsx)
