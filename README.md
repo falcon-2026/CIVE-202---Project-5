@@ -13,7 +13,8 @@ Risk Averse, LLC asked us to continue analyzing natural hazard risk across six s
 
 - [Notebook(Project_5_Code)](CIVE202_Spring2026_GroupINFRA0209_Project5_PythonCode.ipynb)
   
-`All other raw data files used in the code were too large of a file size to upload here. The data sets can be found within the code.`
+`All other raw data files used in the code were too large of a file size to upload here. They can be found here:`
+- [All Other Raw Data](https://uofnebraska-my.sharepoint.com/:f:/g/personal/91407742_nebraska_edu/IgAJHHEeucSmSLx0BjPU142CAXkms8LLkCZA6tDy_loAzJk?e=aDf22L)
   
 ---
 ## User Guide
